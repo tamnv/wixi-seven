@@ -1,0 +1,18 @@
+/*
+ *	7 Seven Premium Theme v1.0
+ *	Media Layout for Wide Screen Monitors
+ *	
+ *  This stylesheet works only on a +1120px width device. i.e. a Wide Screen Monitor
+*/
+
+#block-views-seven-slideshow-6-block .views-slideshow-controls-top {
+    display: block;
+}
+
+body.page-node-34 .region-widescreen{
+     margin: 11px auto -33px;
+    overflow: visible;
+    padding: 0;
+    width: 1120px;
+
+}
